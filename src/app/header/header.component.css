@@ -1,0 +1,28 @@
+a:hover{
+  color: #51FE44;
+}
+a{
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+.a1{
+  color: #51FE44;
+}
+.r1{
+  background-color: rgb(53, 78, 244);
+   height: 80px;
+   text-align: center;
+}
+.c1{
+  padding-top: 15px;
+}
+.c2{
+  color: white;
+  padding-top: 26px;
+  font-size: 18px;
+}
+.b1{
+  background-color: black;
+  height: 20px;
+}

@@ -1,0 +1,307 @@
+.b2{
+  height: 690px;
+  width: 100%;
+  background-size: cover;
+  background-image: url(../../assets/images/banner.png);
+}
+.h{
+  color: white;
+  position: absolute;
+  top: 4.2rem;
+  max-width: 550px;
+  padding-left: 3.9rem;
+}
+.para{
+  padding-left: 80px;
+  padding-top: 100px;
+}
+.wel{
+  font:70px Raleway;
+  font: sans-serif;
+  color: #51FE44;
+}
+.car{
+  font:45px Raleway;
+  color: white;
+}
+.text2{
+
+  font-size:  15px ;
+  color:white;
+  word-spacing: 3px;
+
+
+}
+.carousel-control-prev {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+
+
+  justify-content: center;
+  width: 10%;
+
+  color: #fff;
+  text-align: center;
+  background: 0 0;
+  border: 0;
+  opacity: .5;
+  transition: opacity .15s ease;
+}
+.carousel-control-next {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+
+
+  justify-content: center;
+  width: 10%;
+
+  color: #fff;
+  text-align: center;
+  background: 0 0;
+  border: 0;
+  opacity: .5;
+  transition: opacity .15s ease;
+}
+.but {
+          background-color: black;
+          color: white;
+          border: none;
+          padding: 10px 20px;
+          border-radius: 5px;
+          text-align: center;
+          text-decoration: none;
+          display: inline-block;
+          font-size: 16px;
+          margin: 10px;
+          cursor: pointer;
+}
+.but:hover {
+          background-color: white;
+          color:black
+}
+
+
+.slider{
+  padding-top: 50px;
+  padding-right: 80px;
+}
+.k{
+  padding-top: 200px;
+  padding-left: 120px;
+
+}
+
+.k1{
+
+    padding-top: 200px;
+    padding-right: 120px;
+}
+
+
+
+.manify{
+    transition: transform 0.2s;
+}
+.magnify:hover{
+    transform:  scale(1.1);
+}
+
+/*
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+  transition: 0.2s;
+}
+
+
+
+.row{
+
+  height:50%;
+
+  width:100%;
+   border-radius:10px;
+padding-top: 50px;
+padding-bottom: 70px;
+
+}
+
+
+.text{
+  text-align: center;
+}
+
+
+
+.container{
+
+  transform: translateY(-100px);
+  position: relative;
+  height: 150%;
+
+}
+
+*/
+.c1{
+  text-align: center;
+}
+.c2{
+  padding-top: 40px;
+  font: 2px Raleway;
+
+}
+.c3{
+  padding-bottom: 20px;
+}
+.abb{
+  padding-top: 50px;
+}
+/* About us */
+.about{
+  background-image: url(../../assets/images/about.png );
+  background-size: 100% 100%;
+  text-align: center;
+  height: 570px;
+  width: 52%;
+}
+@media(max-width: 850px){
+  .about{
+      min-height: 50vh;
+  }
+}
+.title{
+  text-align: center;
+  padding-top: 50px;
+
+}
+.carbody{
+color: black;
+    position: absolute;
+    top: 74.0rem;
+    max-width: 520px;
+    text-align: center;
+    padding-left: 7.0rem;
+    padding-top: 1.5rem;
+
+}
+.read_more{
+  border:  #51FE44;
+  font-size: 17px;
+    background-color: #141629;
+    color: #fff;
+    padding: 13px 0px;
+    width: 100%;
+    max-width: 190px;
+    text-align: center;
+    display: inline-block;
+    transition: ease-in all 0.5s;
+    border-radius: 30px;
+    font-weight: 500;
+    text-decoration: none;
+}
+.bt:hover{
+  background-color: white;
+  color: black;
+}
+
+
+.reg::after{
+
+  content: ' ';
+background-color: blue;
+
+width: 420px;
+text-align: center;
+right: 0;
+top: 0px;
+margin: 0 auto;
+display: flex;
+justify-content: center;
+height: 1px;
+left: 0;
+border-radius: 100px;
+
+ }
+
+/* furniture */
+.te{
+  text-align: center;
+  padding-top: 50px;
+  font:15px Raleway;
+}
+
+.te1{
+  text-align: center;
+  font: 1px Raleway;
+}
+.b{
+  border-radius: 90px;
+}
+.t{
+  border-radius: 90px;
+}
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+.c:hover .middle {
+  opacity: 2;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  padding: 16px 2px;
+  font-weight: bold;
+}
+.text1{
+  color: #51FE44;
+  font-weight: bold;
+
+}
+.see_more{
+  border:  #51FE44;
+  font-size: 17px;
+    background-color: #141629;
+    color: #fff;
+    padding: 13px 0px;
+    width: 100%;
+    max-width: 190px;
+    text-align: center;
+    display: inline-block;
+    transition: ease-in all 0.5s;
+    border-radius: 30px;
+    font-weight: 500;
+    margin-left: 43%;
+}
+.btn:hover{
+  background-color:  white;
+  color: black;
+}
+
+.reg1::after{
+
+  content: ' ';
+background-color: blue;
+
+width: 220px;
+text-align: center;
+right: 0;
+top: 0px;
+margin: 0 auto;
+display: flex;
+justify-content: center;
+height: 1px;
+left: 0;
+border-radius: 100px;
+
+}

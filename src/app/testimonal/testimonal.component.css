@@ -1,0 +1,38 @@
+.te{
+  text-align: center;
+  padding-top: 50px;
+  font:15px Raleway;
+}
+
+.te1{
+  text-align: center;
+  font: 1px Raleway;
+}
+.reg::after{
+
+  content: ' ';
+background-color: blue;
+
+width: 220px;
+text-align: center;
+right: 0;
+top: 0px;
+margin: 0 auto;
+display: flex;
+justify-content: center;
+height: 1px;
+left: 0;
+border-radius: 100px;
+
+}
+.ink{
+  background-color:black;
+  text-align: center;
+  color: white;
+}
+.ink1{
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
