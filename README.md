@@ -1,3 +1,4 @@
+A static Car Repair Service website developed using HTML, CSS, JavaScript, and Angular, designed to present car maintenance services with a clean and responsive user interface.
 # Car
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
